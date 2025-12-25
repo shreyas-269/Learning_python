@@ -1,0 +1,30 @@
+Solving a problem by creating an object.
+In object oriented programming, we deal with classes and objects.
+
+Class is a blueprint to create objects.
+For example, class is some random form which has not been filled yet, it belongs to no one. But once its filled it belongs to someone, the filled form is an object.
+Class contains info to create a valid object and object instantiation makes an object out of it.
+Instantiation literally means creating an object from a conceptual blueprint.
+When a class is defined, a template of info is defined.
+Memory is only defined after object instantiation.
+
+Objects can apply the methods given in the class without revealing the implementation details to the user.
+This is called abstraction and encapsulation. 
+
+The purpose of oop is:-
+It organises the code by grouping related data and functions into a single unit (a class).
+It avoids repetition by reusing code through something called inheritance.
+Makes code easier to maintain because changes can be made into one class without breaking others.
+It helps modelling real world problems by representing something like a car, a person or a bank account as an object.
+It increases flexibility as objects can interact and work together in complex ways without everything being tangeled.
+
+An object is basically a variable whose contents are decided by the class, 
+
+Modelling a problem:-
+Nouns are usually used for classes. For eg employees.
+Adjectives(details) of the nouns are the attributes.
+Verbs are the methods inside the class, the functions that you define.
+
+Class attributes:-
+An attribute that belongs to a class rather than a particular object.
+

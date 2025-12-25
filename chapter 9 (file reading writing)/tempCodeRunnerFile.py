@@ -1,0 +1,1 @@
+open(r"file path", mode of opening the file)
